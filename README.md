@@ -22,13 +22,16 @@ Java 17, Git Bash ou SO Linux.
 
 ### Comandos Git para execução:
 
+1º Passo: Abrir o Git Bash e clonar o repositório:
+
 ```bash
-# clonar repositório
 git clone https://github.com/JhoneRodrigues/chess-system-java
+```
 
-# entrar na pasta bin do projeto e iniciar o git bash
+2º Passo: Entrar na pasta bin do projeto, iniciar o git bash e em seguida aplicar:
+
+```bash
 java application/Program
-
 ```
 
 ## Autor
