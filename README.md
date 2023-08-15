@@ -1,5 +1,5 @@
 # Jogo de Xadrez em Java :crown:
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JhoneRodrigues/chess-system-java/blob/main/LICENSE) 
 ### Sobre o projeto
 
 A aplicação a seguir consiste em um jogo de xadrez feito puramente em Java utilizando os bons hábitos da programação orientada a objetos, sendo executável em um Prompt Linux ou no Git Bash.
